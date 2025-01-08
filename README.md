@@ -7,8 +7,6 @@ Here's just a brief summary of all the repos in my profile.✌
 <h3><a href='https://github.com/VinithaRaj/sat-solver'>SAT Solver</a></h3>
 Developed using C++. Solves BODMAS equations using tree structures.
 </section>
-<h3><a href='https://github.com/VinithaRaj/dg-yolo'>Underwater Image Enhancement and Object Detection with Transfer Learning</a></h3>
-<p>Computer Vision project in Tensorflow comparing EfficientDet and YOLOv5</p>
 <h3>Mobile Apps (Pink & Square Dev.)</h3>
 <hr>
 <ol>
@@ -25,7 +23,7 @@ Developed using C++. Solves BODMAS equations using tree structures.
 </section>
 
 <section>
-  <li><h3><a href='https://github.com/VinithaRaj/SnakeManager'>Catalogue App for a Business</a></h3></li>
+  <li><h3><a href='https://github.com/VinithaRaj/Snakes'>Catalogue App for a Business</a></h3></li>
   <p>Android app developed with Flutter, and integrated with Firebase Storage. Developed with 2 variations - business side management app for the business to add new products, update prices and/or details, answer enquiries, create new notifications, and the client side app which displays products, allows clients to contact the owner. Features include:
  
   <ol>
@@ -50,6 +48,17 @@ Developed using C++. Solves BODMAS equations using tree structures.
   </p>
   
 </section>
+<section>
+  <li><h3><a href = 'https://github.com/VinithaRaj/TamilMethodistChurchMYF'>Bible Study App</a></h3></li>
+  <p>Android app developed with Flutter, and integrated with Firebase Storage. Features include:
+  <ol>
+  <li>Display of study materials</li>
+  <li>Integrated Youtube Videos within the app</li></li>
+</ol>
+  </p>
+  
+</section>
+
 </ol>
 <!--
 **VinithaRaj/VinithaRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
