@@ -1,5 +1,5 @@
 ### Hello there! 🙋‍♀️
-Here's just a brief summary of all the repos in my profile.✌
+I am a Machine Learning Expert by profession, and I have also developed some mobile and web apps as part of my freelance, Pink & Square Dev. Here's just a brief summary of the public repos in my profile.✌
 
 <h3>General Projects</h3>
 <hr>
